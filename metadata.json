@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Zodiac Gemini: Astroloji Rehberi",
+  "description": "Gemini AI tarafından desteklenen, günlük burç yorumları, uyum analizi ve detaylı astrolojik içgörüler sunan modern bir astroloji uygulaması.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
